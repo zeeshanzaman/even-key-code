@@ -20,3 +20,4 @@ window.addEventListener('keydown', (event) => {
 
 
 // ? is qual to than
+// we start here with addEventListener to keydown and event trigger after that we use insert inner HTML and dynamically use ${event.code}
